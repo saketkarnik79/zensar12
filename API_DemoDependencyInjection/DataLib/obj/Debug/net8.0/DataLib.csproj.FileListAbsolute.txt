@@ -1,0 +1,11 @@
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\bin\Debug\net8.0\DataLib.deps.json
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\bin\Debug\net8.0\DataLib.dll
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\bin\Debug\net8.0\DataLib.pdb
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\obj\Debug\net8.0\DataLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\obj\Debug\net8.0\DataLib.AssemblyInfoInputs.cache
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\obj\Debug\net8.0\DataLib.AssemblyInfo.cs
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\obj\Debug\net8.0\DataLib.csproj.CoreCompileInputs.cache
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\obj\Debug\net8.0\DataLib.dll
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\obj\Debug\net8.0\refint\DataLib.dll
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\obj\Debug\net8.0\DataLib.pdb
+C:\Zensar13\Demos\API_DemoDependencyInjection\DataLib\obj\Debug\net8.0\ref\DataLib.dll

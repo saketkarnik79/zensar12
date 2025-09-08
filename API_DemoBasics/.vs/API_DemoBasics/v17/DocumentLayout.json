@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Zensar12\\API_DemoBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A4CFCD-60C6-4EA1-AEB2-CB27172D51F2}|API_DemoBasics\\API_DemoBasics.csproj|c:\\zensar12\\api_demobasics\\api_demobasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A4CFCD-60C6-4EA1-AEB2-CB27172D51F2}|API_DemoBasics\\API_DemoBasics.csproj|solutionrelative:api_demobasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A4CFCD-60C6-4EA1-AEB2-CB27172D51F2}|API_DemoBasics\\API_DemoBasics.csproj|c:\\zensar12\\api_demobasics\\api_demobasics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15A4CFCD-60C6-4EA1-AEB2-CB27172D51F2}|API_DemoBasics\\API_DemoBasics.csproj|solutionrelative:api_demobasics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zensar12\\API_DemoBasics\\API_DemoBasics\\Program.cs",
+              "RelativeDocumentMoniker": "API_DemoBasics\\Program.cs",
+              "ToolTip": "C:\\Zensar12\\API_DemoBasics\\API_DemoBasics\\Program.cs",
+              "RelativeToolTip": "API_DemoBasics\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvx8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:06:08.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Zensar12\\API_DemoBasics\\API_DemoBasics\\appsettings.json",
+              "RelativeDocumentMoniker": "API_DemoBasics\\appsettings.json",
+              "ToolTip": "C:\\Zensar12\\API_DemoBasics\\API_DemoBasics\\appsettings.json",
+              "RelativeToolTip": "API_DemoBasics\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T13:05:39.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
