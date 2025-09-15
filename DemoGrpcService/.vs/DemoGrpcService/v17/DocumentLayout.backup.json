@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Zensar12\\DemoGrpcService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{364D3489-81B7-4B24-AD37-2B9B1DE4AFA4}|ClientApp\\ClientApp.csproj|c:\\zensar12\\demogrpcservice\\clientapp\\services\\upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364D3489-81B7-4B24-AD37-2B9B1DE4AFA4}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\services\\upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D3489-81B7-4B24-AD37-2B9B1DE4AFA4}|ClientApp\\ClientApp.csproj|c:\\zensar12\\demogrpcservice\\clientapp\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{364D3489-81B7-4B24-AD37-2B9B1DE4AFA4}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D3489-81B7-4B24-AD37-2B9B1DE4AFA4}|ClientApp\\ClientApp.csproj|c:\\zensar12\\demogrpcservice\\clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{364D3489-81B7-4B24-AD37-2B9B1DE4AFA4}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\clientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{364D3489-81B7-4B24-AD37-2B9B1DE4AFA4}|ClientApp\\ClientApp.csproj|c:\\zensar12\\demogrpcservice\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{364D3489-81B7-4B24-AD37-2B9B1DE4AFA4}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|c:\\zensar12\\demogrpcservice\\demogrpcservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|solutionrelative:demogrpcservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|c:\\zensar12\\demogrpcservice\\demogrpcservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|solutionrelative:demogrpcservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|c:\\zensar12\\demogrpcservice\\demogrpcservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|solutionrelative:demogrpcservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|c:\\zensar12\\demogrpcservice\\demogrpcservice\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|solutionrelative:demogrpcservice\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|c:\\zensar12\\demogrpcservice\\demogrpcservice\\services\\weatherserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9981A9-B2B2-4E63-883B-17C8D73397D8}|DemoGrpcService\\DemoGrpcService.csproj|solutionrelative:demogrpcservice\\services\\weatherserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 284,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upload.cs",
+              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\Services\\Upload.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Services\\Upload.cs",
+              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\Services\\Upload.cs",
+              "RelativeToolTip": "ClientApp\\Services\\Upload.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:24:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "weather.proto",
+              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\Protos\\weather.proto",
+              "RelativeDocumentMoniker": "ClientApp\\Protos\\weather.proto",
+              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\Protos\\weather.proto",
+              "RelativeToolTip": "ClientApp\\Protos\\weather.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-09-08T12:22:09.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:21:48.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientApp",
+              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\ClientApp.csproj",
+              "RelativeDocumentMoniker": "ClientApp\\ClientApp.csproj",
+              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\ClientApp.csproj",
+              "RelativeToolTip": "ClientApp\\ClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T12:20:30.406Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -34,41 +102,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GreeterService.cs",
-              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Services\\GreeterService.cs",
-              "RelativeDocumentMoniker": "DemoGrpcService\\Services\\GreeterService.cs",
-              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Services\\GreeterService.cs",
-              "RelativeToolTip": "DemoGrpcService\\Services\\GreeterService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "weather.proto",
+              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Protos\\weather.proto",
+              "RelativeDocumentMoniker": "DemoGrpcService\\Protos\\weather.proto",
+              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Protos\\weather.proto",
+              "RelativeToolTip": "DemoGrpcService\\Protos\\weather.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-09-08T12:12:38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherServiceImpl.cs",
+              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Services\\WeatherServiceImpl.cs",
+              "RelativeDocumentMoniker": "DemoGrpcService\\Services\\WeatherServiceImpl.cs",
+              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Services\\WeatherServiceImpl.cs",
+              "RelativeToolTip": "DemoGrpcService\\Services\\WeatherServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:27:46.422Z",
+              "WhenOpened": "2025-09-08T12:11:56.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "DemoGrpcService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "DemoGrpcService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-05T13:23:30.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\Program.cs",
-              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
-              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\ClientApp\\Program.cs*",
-              "RelativeToolTip": "ClientApp\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Program.cs",
+              "RelativeDocumentMoniker": "DemoGrpcService\\Program.cs",
+              "ToolTip": "C:\\Zensar12\\DemoGrpcService\\DemoGrpcService\\Program.cs",
+              "RelativeToolTip": "DemoGrpcService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:13:08.62Z",
+              "WhenOpened": "2025-09-08T11:45:40.497Z",
               "EditorCaption": ""
             }
           ]

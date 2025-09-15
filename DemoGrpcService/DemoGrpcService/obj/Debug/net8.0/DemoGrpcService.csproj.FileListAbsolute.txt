@@ -20,6 +20,7 @@ C:\Zensar12\DemoGrpcService\DemoGrpcService\obj\Debug\net8.0\DemoGrpcService.Ass
 C:\Zensar12\DemoGrpcService\DemoGrpcService\obj\Debug\net8.0\DemoGrpcService.AssemblyInfo.cs
 C:\Zensar12\DemoGrpcService\DemoGrpcService\obj\Debug\net8.0\DemoGrpcService.csproj.CoreCompileInputs.cache
 C:\Zensar12\DemoGrpcService\DemoGrpcService\obj\Debug\net8.0\DemoGrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:\Zensar12\DemoGrpcService\DemoGrpcService\obj\Debug\net8.0\DemoGrpcService.sourcelink.json
 C:\Zensar12\DemoGrpcService\DemoGrpcService\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Zensar12\DemoGrpcService\DemoGrpcService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Zensar12\DemoGrpcService\DemoGrpcService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

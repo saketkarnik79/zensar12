@@ -1,5 +1,3 @@
-C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.csproj.AssemblyReference.cache
-C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Zensar12\DemoGrpcService\ClientApp\bin\Debug\net8.0\ClientApp.exe
 C:\Zensar12\DemoGrpcService\ClientApp\bin\Debug\net8.0\ClientApp.deps.json
 C:\Zensar12\DemoGrpcService\ClientApp\bin\Debug\net8.0\ClientApp.runtimeconfig.json
@@ -10,9 +8,12 @@ C:\Zensar12\DemoGrpcService\ClientApp\bin\Debug\net8.0\Grpc.Core.Api.dll
 C:\Zensar12\DemoGrpcService\ClientApp\bin\Debug\net8.0\Grpc.Net.Client.dll
 C:\Zensar12\DemoGrpcService\ClientApp\bin\Debug\net8.0\Grpc.Net.Common.dll
 C:\Zensar12\DemoGrpcService\ClientApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.csproj.AssemblyReference.cache
+C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfoInputs.cache
 C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfo.cs
 C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.sourcelink.json
 C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.csproj.Up2Date
 C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\ClientApp.dll
 C:\Zensar12\DemoGrpcService\ClientApp\obj\Debug\net8.0\refint\ClientApp.dll

@@ -16,7 +16,11 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-	<Protobuf  Include="Protos/greet.proto" GrpcServices="Client" />
+	<Protobuf Include="Protos/greet.proto" GrpcServices="Client" />
+	
+	  <!--<Protobuf Include="Protos\weather.proto.old" GrpcServices="Client" />-->
+
+	  <Protobuf Include="Protos/weather.proto" GrpcServices="Server" />
   </ItemGroup>
 
 </Project>

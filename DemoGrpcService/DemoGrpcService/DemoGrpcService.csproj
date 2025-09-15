@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Protobuf Include="Protos\greet.proto" GrpcServices="Server" />
+    <Compile Include="Services\WeatherServiceImpl.cs.old" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <Protobuf Include="Protos\greet.proto" GrpcServices="Server" />
+	  <!--<Protobuf Include="Protos\weather.proto.old" GrpcServices="Server" />-->
+	  <Protobuf Include="Protos\weather.proto" GrpcServices="Server" />
+
   </ItemGroup>
 
   <ItemGroup>

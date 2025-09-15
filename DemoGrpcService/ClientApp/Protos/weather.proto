@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "DemoGrpcService";
+
+package weather;
+
+service UploadService{
+	rpc UploadData (stream DataChunk) returns (UploadStatus);
+}
+
+message DataChunk{
+	bytes content = 1;
+}
+
+message UploadStatus{
+	string message = 1;
+}

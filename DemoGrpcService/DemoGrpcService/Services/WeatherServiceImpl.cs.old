@@ -1,0 +1,28 @@
+﻿//using DemoGrpcService;
+//using Grpc.Core;
+////using WeatherUpdate;
+
+//namespace DemoGrpcService.Services
+//{
+//    public class WeatherServiceImpl: WeatherService.WeatherServiceBase
+//    {
+//        private readonly ILogger<WeatherServiceImpl> _logger;
+//        public WeatherServiceImpl(ILogger<WeatherServiceImpl> logger)
+//        {
+//            _logger = logger;
+//        }
+
+//        public override Task<WeatherResponse> GetCurrentWeather(WeatherRequest request, ServerCallContext context)
+//        {
+//            var response = new WeatherResponse
+//            {
+//                City = request.City,
+//                TemperatureCelsius = 25.0f, // Dummy data
+//                Condition = "Sunny", // Dummy data
+//                HumidityPercent = 60.0f
+//            };
+//            _logger.LogInformation($"GetCurrentWeather called for city: {request.City}");
+//            return Task.FromResult(response);
+//        }
+//    }
+//}
