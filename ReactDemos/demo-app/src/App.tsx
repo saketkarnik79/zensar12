@@ -4,9 +4,9 @@ function App() {
 
   return (
     <>
-      <div>
-        <h1>Hello to React Development</h1>
-      </div>
+     <h1>
+        Welcome to React Development
+     </h1>
     </>
   )
 }

@@ -1,7 +1,7 @@
-import { Project } from './Project';
+import { Project } from "./Project";
 
-export const MOCK_PROJECTS = [
-     new Project({
+const MOCK_PROJECTS = [
+    new Project({
     id: 1,
     name: 'Johnson - Kutch',
     description:
@@ -68,3 +68,5 @@ export const MOCK_PROJECTS = [
     isActive: false
   })
 ];
+
+export { MOCK_PROJECTS };

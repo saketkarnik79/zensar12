@@ -1,4 +1,4 @@
-export class Project{
+class Project {
     id: number | undefined;
     name: string = '';
     description: string = '';
@@ -7,12 +7,13 @@ export class Project{
     contractSignedOn: Date = new Date();
     budget: number = 0;
     isActive: boolean = false;
-    get isNew(): boolean {
+
+    get isNew(): boolean{
         return this.id === undefined;
     }
 
-    constructor(initializer: Partial<Project>){
-        if(!initializer) 
+    constructor(initializer?: Partial<Project>) {
+        if(!initializer)
             return;
         if(initializer.id)
             this.id = initializer.id;
@@ -32,3 +33,5 @@ export class Project{
             this.isActive = initializer.isActive;
     }
 }
+
+export { Project };
