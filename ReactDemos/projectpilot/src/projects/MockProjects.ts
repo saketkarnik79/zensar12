@@ -5,7 +5,7 @@ const MOCK_PROJECTS = [
     id: 1,
     name: 'Johnson - Kutch',
     description:
-      'Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.',
+      'Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis. Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.',
     imageUrl: '/assets/placeimg_500_300_arch4.jpg',
     contractTypeId: 3,
     contractSignedOn: new Date('2013-08-04T22:39:41.473Z'),
