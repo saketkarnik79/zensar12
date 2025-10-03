@@ -1,16 +1,23 @@
 import { Project } from "./Project";
 
+// interface ProjectCardProps{
+//     project: Project;
+// }
+
 interface ProjectCardProps{
     project: Project;
+    onEdit: (project: Project) => void;
 }
 
 function formatDescription(description: string): string{
     return `${description.substring(0, 60)}...`;
 }
 
-function ProjectCard({ project}: ProjectCardProps){
+//function ProjectCard({ project}: ProjectCardProps){
+function ProjectCard({ project, onEdit }: ProjectCardProps){
     const handleEditClick=(projectBeingEdited: Project)=> {
-        console.log(projectBeingEdited);
+        //console.log(projectBeingEdited);
+        onEdit(projectBeingEdited);
     };
     return(
         <>

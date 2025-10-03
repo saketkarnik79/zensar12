@@ -1,11 +1,26 @@
 import { Project } from "./Project";
 import ProjectCard from './ProjectCard';
+import ProjectForm from "./ProjectForm";
+import { useState } from "react";
 
 interface ProjectListProps {
     projects: Project[];
 }
 
 function ProjectList( {projects}: ProjectListProps){
+
+    const [projectBeingEdited, setProjectBeingEdited] = useState({});
+
+    const handleEdit = (project: Project): void => {
+        //console.log(project);
+        setProjectBeingEdited(project);
+        console.log(projectBeingEdited);
+    }
+
+    const cancelEditing = (): void => {
+        setProjectBeingEdited({});
+    }
+
     return (
         <>
             {/* <pre>
@@ -36,7 +51,17 @@ function ProjectList( {projects}: ProjectListProps){
                             //     </section>
                             // </div> */}
 
-                            <ProjectCard project= {project} />
+                            {/* <ProjectCard project= {project} onEdit={handleEdit} />
+                            <ProjectForm /> */}
+
+                            {
+                                project === projectBeingEdited ? (
+                                    // <ProjectForm />
+                                    <ProjectForm onCancel={cancelEditing} />
+                                ) : (
+                                    <ProjectCard project= {project} onEdit={handleEdit} />
+                                )
+                            }
                         </div>
                     ))
                 }
