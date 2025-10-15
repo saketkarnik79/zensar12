@@ -1,0 +1,26 @@
+<!-- <h1>
+  Welcome to Angular20 Training.
+</h1> -->
+<h1 [innerText]="title()"></h1>
+<p>Hello, {{ firstName }} {{ lastName }}</p>
+<button type="button" (click)="clicked()">Click Me!</button>
+<input type="text" name="value" [(ngModel)]="value" placeholder="Enter value"/>
+
+<p>
+  You entered: {{ value }}
+</p>
+<hr/>
+<!-- <hello-world></hello-world> -->
+ <label>Enter Your Name</label>
+<input type="text" (keyup)="0" #name placeholder="Some value"/>
+<p>Welcome {{name.value}} </p>
+<hr/>
+<p>{{script}}</p>
+<p>{{div}}</p>
+<hr>
+<p>Evaluate: {{20 + 10}}</p>
+<p ngNonBindable>Do not evaluate: {{20 + 10}}</p>
+<hr/>
+<p>
+  Full Name: {{ fullName?.firstName! }} {{ fullName?.lastName! }}
+</p>
