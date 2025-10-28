@@ -1,0 +1,12 @@
+<h1>{{title}}</h1>
+<button [ttClass]="'blue'">Click me!</button>
+
+Show Me <input type="checkbox" [(ngModel)]="show" placeholder="Show?"/>
+<div *ttIf="show">
+  Using the ttIf directive.
+</div>
+<div *ngIf="show">
+  Using the ngIf directive.
+</div>
+
+<button ttToggle ttTooltip toolTip="Click to Toggle Background Color Of This Button">Click To Toggle</button>

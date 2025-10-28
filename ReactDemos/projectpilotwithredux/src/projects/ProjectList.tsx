@@ -5,11 +5,11 @@ import { useState } from "react";
 
 interface ProjectListProps {
     projects: Project[];
-    onSave: (project: Project) => void;
+    //onSave: (project: Project) => void;
 }
 
-//function ProjectList( {projects}: ProjectListProps){
-function ProjectList( {projects, onSave }: ProjectListProps){
+function ProjectList( {projects}: ProjectListProps){
+//function ProjectList( {projects, onSave }: ProjectListProps){
 
     const [projectBeingEdited, setProjectBeingEdited] = useState({});
 
@@ -60,7 +60,8 @@ function ProjectList( {projects, onSave }: ProjectListProps){
                                 project === projectBeingEdited ? (
                                     // <ProjectForm />
                                     // <ProjectForm onCancel={cancelEditing} onSave={onSave} />
-                                    <ProjectForm project={project} onCancel={cancelEditing} onSave={onSave} />
+                                    // <ProjectForm project={project} onCancel={cancelEditing} onSave={onSave} />
+                                    <ProjectForm project={project} onCancel={cancelEditing} />
                                 ) : (
                                     <ProjectCard project= {project} onEdit={handleEdit} />
                                 )

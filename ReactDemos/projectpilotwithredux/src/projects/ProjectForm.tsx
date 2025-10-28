@@ -1,6 +1,11 @@
 import { Project } from './Project';
 import './ProjectForm.css';
 import { type SyntheticEvent, useState } from 'react';
+import { useDispatch } from 'react-redux';
+import { saveProject } from './state/projectActions';
+import { type ThunkDispatch } from 'redux-thunk';
+import { type ProjectState } from './state/projectTypes';
+import { type AnyAction } from 'redux';
 
 // interface ProjectFormProps {
 //     onCancel: () => void;
@@ -10,14 +15,15 @@ import { type SyntheticEvent, useState } from 'react';
 interface ProjectFormProps {
     project: Project;
     onCancel: () => void;
-    onSave: (project: Project) => void;
+    //onSave: (project: Project) => void;
 }
 
 
 //function ProjectForm(){
 //function ProjectForm({onCancel}: ProjectFormProps){
 //function ProjectForm({onCancel, onSave}: ProjectFormProps){
-function ProjectForm({project: initialProject, onCancel, onSave}: ProjectFormProps){
+// function ProjectForm({project: initialProject, onCancel, onSave}: ProjectFormProps){
+function ProjectForm({project: initialProject, onCancel}: ProjectFormProps){
 
     const [project, setProject] = useState(initialProject);
     const [errors, setErrors] = useState({
@@ -25,6 +31,9 @@ function ProjectForm({project: initialProject, onCancel, onSave}: ProjectFormPro
         description: '',
         budget: ''
     });
+
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const dispatch = useDispatch<ThunkDispatch<ProjectState, any, AnyAction>>();
 
     function validate(project: Project) {
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -76,7 +85,8 @@ function ProjectForm({project: initialProject, onCancel, onSave}: ProjectFormPro
         if(!isValid()){
             return;
         }
-        onSave(project);
+        //onSave(project);
+        dispatch(saveProject(project));
     };
 
     return(

@@ -1,0 +1,15 @@
+.blue {
+    background-color: lightblue;
+}
+
+.toggle{
+    background-color: yellow;
+}
+
+.tooltip {
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+    position: absolute;
+    background-color: lightyellow;
+    font-size: 12   px;;
+}
